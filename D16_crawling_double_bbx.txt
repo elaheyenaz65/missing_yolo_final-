@@ -1,0 +1,12 @@
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/crawling/video/b479160e14d6cffe8c3fab747894cbd9-crawling-11_ayJSez4c.mp4
+double box frame numbers: 77,79,80,81
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/crawling/video/b479160e14d6cffe8c3fab747894cbd9-crawling-15_RTXDgS0x.mp4
+double box frame numbers: 2,18
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/crawling/video/b479160e14d6cffe8c3fab747894cbd9-crawling-2_7i9tt5Yi.mp4
+double box frame numbers: 26,28,29,30,31,61,64,68,84
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/crawling/video/b479160e14d6cffe8c3fab747894cbd9-crawling-2_gCm6qrvn.mp4
+double box frame numbers: 14,25,26,27
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/crawling/video/b479160e14d6cffe8c3fab747894cbd9-crawling-6_BgFhHVX7.mp4
+double box frame numbers: 34
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/crawling/video/b479160e14d6cffe8c3fab747894cbd9-crawling-9_uh2QCHn9.mp4
+double box frame numbers: 26,32,34,46,53,54,67

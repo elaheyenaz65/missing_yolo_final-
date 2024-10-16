@@ -1,0 +1,6 @@
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/walking/video/b479160e14d6cffe8c3fab747894cbd9-walking-10_alXN0SH1.mp4
+double box frame numbers: 0,1,66,88,126
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/walking/video/b479160e14d6cffe8c3fab747894cbd9-walking-10_pUVw9rIm.mp4
+double box frame numbers: 12,13,15,61,62
+/media/eli/B95FCD0F6C3BB0A7/career_data/D16_data/walking/video/b479160e14d6cffe8c3fab747894cbd9-walking-10_qj7AXC5o.mp4
+double box frame numbers: 6,35,47,48,50,53
